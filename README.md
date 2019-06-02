@@ -20,6 +20,10 @@
 
 ## Wiring
 
+ 
+![alt text][wiring]
+ 
+[wiring]:https://github.com/askasp/AB-LedThermostat/blob/master/Wiring.png
 
 ## Code
 

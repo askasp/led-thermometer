@@ -11,12 +11,18 @@
  
  
 ## Equipment
-
+1. Power Supply:  PHEVOS 5v 12A Dc Universal Switching Power Supply for Raspberry PI Models,CCTV
+2. uC: Rpi 3
+3. Thermostat Vktech 2M Waterproof Digital Temperature Temp Sensor Probe DS18b20
+4. LEDS: ALITOVE WS2812B Individually Addressable LED Strip Light 5050 RGB 16.4ft 300 
+5. Cobber wire: UL1015 Commercial Copper Wire, Bright, Red, 22 AWG, 0.0253" Diameter, 100' Length (Pack of 1)
+(As the leds draws about 6AMP its nice/wise to have a bit more then the standard RPI jumpers)
 
 
 ## Wiring
 
 
 ## Code
+
  
 

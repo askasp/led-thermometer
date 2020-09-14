@@ -6,9 +6,7 @@
  
 ![alt text][sauna]
  
-[sauna]:https://github.com/askasp/AB-LedThermostat/blob/master/saunandtermo.png
- 
- 
+[sauna]:https://gitlab.com/akselsk/led-thermometer/-/blob/master/saunandtermo.png
 ## Equipment
 1. Power Supply:  PHEVOS 5v 12A Dc Universal Switching Power Supply for Raspberry PI Models,CCTV
 2. uC: Rpi 3
@@ -23,8 +21,7 @@
  
 ![alt text][wiring]
  
-[wiring]:https://github.com/askasp/AB-LedThermostat/blob/master/Wiring.png
-
+[wiring]:https://gitlab.com/akselsk/led-thermometer/-/blob/master/Wiring.png 
 ## Code
 
  

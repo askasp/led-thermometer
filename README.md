@@ -21,7 +21,7 @@
  
 ![alt text][wiring]
  
-[wiring]:img/Wiring.png 
+[wiring]:Wiring.png 
 ## Code
 
  

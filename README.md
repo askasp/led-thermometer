@@ -17,7 +17,7 @@
 
 ## Wiring
 
-![wiring](https://imgur.com/uKVKCfE)
+![Wiring](https://i.imgur.com/uKVKCfE.png)
 ## Code
 
  

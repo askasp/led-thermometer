@@ -3,14 +3,8 @@
 ## Intro
  For Africa Burn 2018 my camp decided to gift a sauna to the community. This guide explains how to make a 3-5m tall LED thermostat as seen on the picture below. The number of leds lighted and their individual color depends on the sauna temperature. The warmer it gets, the more leds and the redder color. At the picture the temperature range is 0-80deg where the current temperature is around 60. 
  
- 
-![alt text][sauna]
- 
-[sauna]:saunandtermo.png
 
-
-![Image of sauna and thermometer](https://gitlab.com/akselsk/led-thermometer/-/blob/fc1e7bb31e6a83ec3b149144a13511810884e0bb/saunandtermo.png)
-
+![Image of sauna and thermometer](https://i.imgur.com/A6VTrcJ.png)
 
 ## Equipment
 1. Power Supply:  PHEVOS 5v 12A Dc Universal Switching Power Supply for Raspberry PI Models,CCTV
@@ -23,10 +17,7 @@
 
 ## Wiring
 
- 
-![alt text][wiring]
- 
-[wiring]:Wiring.png 
+![wiring](https://imgur.com/uKVKCfE)
 ## Code
 
  

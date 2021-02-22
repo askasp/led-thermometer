@@ -7,6 +7,11 @@
 ![alt text][sauna]
  
 [sauna]:saunandtermo.png
+
+
+![Image of sauna and thermometer](https://gitlab.com/akselsk/led-thermometer/-/blob/fc1e7bb31e6a83ec3b149144a13511810884e0bb/saunandtermo.png)
+
+
 ## Equipment
 1. Power Supply:  PHEVOS 5v 12A Dc Universal Switching Power Supply for Raspberry PI Models,CCTV
 2. uC: Rpi 3

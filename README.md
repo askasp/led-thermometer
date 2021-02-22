@@ -16,7 +16,7 @@ For Africa Burn 2019 my camp (Vagabonds) decided to gift a sauna to the communit
 
 ## Wiring
 
-![Wiring](https://i.imgur.com/uKVKCfE.png)
+![Wiring](https://i.imgur.com/NnVQD9A.png)
 ## Code
 The code is rather strighforward as it builds upon NeoPixel and w1Thermsensor. 
 Only small modifications were needed from the NeoPixel examples. Note the MAX and MIN constants as they decide the temperature range for the termometer
